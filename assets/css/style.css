@@ -312,8 +312,6 @@ body.active { overflow: hidden; }
   font-size: 2.8rem;
   font-weight: var(--fw-700);
   letter-spacing: -2px;
-  display: flex;
-  position: fixed;
 }
 .logo h3{
   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
