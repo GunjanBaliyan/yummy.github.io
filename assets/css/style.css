@@ -851,11 +851,11 @@ body.active { overflow: hidden; }
   background-color: black;
 }
 
-.banner-lg { height: 530px; }
+.banner-lg { height: 430px; }
 
-.banner-sm { height: 300px; }
+.banner-sm { height: 200px; }
 
-.banner-md { height: 340px; }
+.banner-md { height: 240px; }
 
 .banner-card {
   position: relative;
@@ -884,7 +884,7 @@ body.active { overflow: hidden; }
   max-height: calc(100% - 30px);
 }
 
-.banner-md .banner-item-content { left: 90%; }
+.banner-md .banner-item-content { left: 50%; }
 .banner-item-content{
   color: white;
 }
